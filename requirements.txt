@@ -1,0 +1,14 @@
+torch>=1.12.0
+torchvision>=0.13.0
+numpy
+pandas
+scikit-learn
+matplotlib
+opencv-python
+tqdm
+ftfy
+regex
+# OpenAI CLIP
+git+https://github.com/openai/CLIP.git
+# YOLOv5
+git+https://github.com/ultralytics/yolov5.git
