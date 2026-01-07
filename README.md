@@ -1,5 +1,7 @@
 # Semi-Supervised Video Anomaly Detection (Pixel Play 2026)
 
+![AUC Score](https://img.shields.io/badge/Public_Leaderboard_AUC-0.XX-brightgreen?style=for-the-badge&logo=kaggle)
+
 **Hosted by:** Vision and Language Group (VLG), IIT Roorkee  
 **Status:** Completed (January 2026)
 
