@@ -1,9 +1,9 @@
 # Semi-Supervised Video Anomaly Detection (Pixel Play 2026)
 
-[![Public Leaderboard](https://img.shields.io/badge/Public_Leaderboard_AUC-0.79-brightgreen?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/competitions/pixel-play-26/leaderboard?tab=public)
+[![Public Leaderboard](https://img.shields.io/badge/Public_Leaderboard_AUC-0.79027-brightgreen?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/competitions/pixel-play-26/leaderboard?tab=public)
 
 **Hosted by:** Vision and Language Group (VLG), IIT Roorkee  
-**Status:** Completed (January 2026)
+**Status:** Completed (8 January 2026)
 
 ## 📌 Project Overview
 This repository contains the official implementation for the **Pixel Play 2026** anomaly detection challenge. The objective is to develop a robust system capable of identifying abnormal events in video surveillance footage—such as unauthorized entries, sudden running, or falls—using a semi-supervised learning framework.
