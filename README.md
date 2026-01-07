@@ -34,9 +34,6 @@ The system employs a unified **VideoPatchCore** framework that forks into two pa
 ```text
 ├── Final_codes/
 │   ├── training_notebooks/   # Main pipeline (Feature Extraction + Memory Bank creation)
-│   ├── Ensemble_code/        # Logic for averaging outputs across 3 random seeds
-│   └── Final_models/         # Configuration for YOLOv5s and CLIP weights
-├── experimental/             # Research archive (Spatial Partitioning tests, ViT backbones)
-├── visuals/                  # Anomaly score curves, t-SNE projections
+├── experiments/              # Research archive (2D autoencoder, Resnet Feature extractor autoencode)
 ├── requirements.txt          # List of Python dependencies
 └── README.md                 # Project Documentation
