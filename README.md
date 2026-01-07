@@ -32,8 +32,7 @@ The system employs a unified **VideoPatchCore** framework that forks into two pa
 
 ## 📂 Repository Structure
 ```text
-├── Final_codes/
-│   ├── training_notebooks/   # Main pipeline (Feature Extraction + Memory Bank creation)
-├── experiments/              # Research archive (2D autoencoder, Resnet Feature extractor autoencode)
-├── requirements.txt          # List of Python dependencies
-└── README.md                 # Project Documentation
+├── Final_codes/training_notebook/   # Main pipeline (Feature Extraction + Memory Bank creation)
+├── experiments/                     # Research archive (2D autoencoder, Resnet Feature extractor autoencode)
+├── requirements.txt                 # List of Python dependencies
+└── README.md                        # Project Documentation
