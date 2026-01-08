@@ -34,7 +34,9 @@ The system employs a unified **VideoPatchCore** framework that forks into two pa
 
 ## 📂 Repository Structure
 ```text
-├── Final_codes/training_notebook/   # Main pipeline (final submission - Feature Extraction + Memory Bank creation)
-├── Experiments/                     # Most significant experiments with different models
-├── requirements.txt                 # List of Python dependencies
-└── README.md                        # Project Documentation
+|-- Final_codes
+     |-- /training_notebook/         # Main pipeline (final submission - Feature Extraction + Memory Bank creation)
+     |-- /Final_submission_output    # Output of training notebook run on kaggle notebooks with GPU P100(T4x2 also works well)
+|-- Experiments/                     # Most significant experiments with different models
+|-- requirements.txt                 # List of Python dependencies
+|-- README.md                        # Project Documentation
